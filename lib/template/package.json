@@ -7,13 +7,7 @@
   "scripts": {
     "start": "tsc -w & node build/t2j.core.js"
   },
-  "dependencies": {
-    "chokidar": "^3.3.0",
-    "fs-extra": "^8.1.0",
-    "require-json5": "^1.0.2",
-    "live-server": "^1.2.1",
-    "axios": "^0.19.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "^3.7.4"
   }

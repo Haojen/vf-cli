@@ -5,7 +5,7 @@
   "private": true,
   "author": "",
   "scripts": {
-    "start": "tsc -w & node build/t2j.core.js"
+    "start": "node build/h.js | tsc -w | node build/t2j.core.js"
   },
   "dependencies": {},
   "devDependencies": {
